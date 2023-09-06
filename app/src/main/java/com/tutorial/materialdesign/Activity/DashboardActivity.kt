@@ -1,7 +1,8 @@
-package com.tutorial.materialdesign
+package com.tutorial.materialdesign.Activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tutorial.materialdesign.R
 
 class DashboardActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
